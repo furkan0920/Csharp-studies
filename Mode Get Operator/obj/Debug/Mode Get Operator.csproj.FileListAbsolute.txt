@@ -1,0 +1,13 @@
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Mode Get Operator\bin\Debug\Mode Get Operator.exe.config
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Mode Get Operator\bin\Debug\Mode Get Operator.exe
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Mode Get Operator\bin\Debug\Mode Get Operator.pdb
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Mode Get Operator\obj\Debug\Mode Get Operator.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Mode Get Operator\obj\Debug\Mode Get Operator.exe
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Mode Get Operator\obj\Debug\Mode Get Operator.pdb
+C:\Programmin works\C# works\introductory lesson\Mode Get Operator\bin\Debug\Mode Get Operator.exe.config
+C:\Programmin works\C# works\introductory lesson\Mode Get Operator\bin\Debug\Mode Get Operator.exe
+C:\Programmin works\C# works\introductory lesson\Mode Get Operator\bin\Debug\Mode Get Operator.pdb
+C:\Programmin works\C# works\introductory lesson\Mode Get Operator\obj\Debug\Mode Get Operator.csproj.SuggestedBindingRedirects.cache
+C:\Programmin works\C# works\introductory lesson\Mode Get Operator\obj\Debug\Mode Get Operator.csproj.CoreCompileInputs.cache
+C:\Programmin works\C# works\introductory lesson\Mode Get Operator\obj\Debug\Mode Get Operator.exe
+C:\Programmin works\C# works\introductory lesson\Mode Get Operator\obj\Debug\Mode Get Operator.pdb

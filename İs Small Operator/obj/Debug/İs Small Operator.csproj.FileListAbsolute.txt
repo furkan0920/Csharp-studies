@@ -1,0 +1,21 @@
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\İs Small Operator\bin\Debug\İs Small Operator.exe.config
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\İs Small Operator\bin\Debug\İs Small Operator.exe
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\İs Small Operator\bin\Debug\İs Small Operator.pdb
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\İs Small Operator\obj\Debug\İs Small Operator.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\İs Small Operator\obj\Debug\İs Small Operator.exe
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\İs Small Operator\obj\Debug\İs Small Operator.pdb
+C:\Users\Furkan Ayakdaş\Desktop\Programmin works\C# works\introductory lesson\İs Small Operator\bin\Debug\İs Small Operator.exe.config
+C:\Users\Furkan Ayakdaş\Desktop\Programmin works\C# works\introductory lesson\İs Small Operator\bin\Debug\İs Small Operator.exe
+C:\Users\Furkan Ayakdaş\Desktop\Programmin works\C# works\introductory lesson\İs Small Operator\bin\Debug\İs Small Operator.pdb
+C:\Users\Furkan Ayakdaş\Desktop\Programmin works\C# works\introductory lesson\İs Small Operator\obj\Debug\İs Small Operator.csproj.AssemblyReference.cache
+C:\Users\Furkan Ayakdaş\Desktop\Programmin works\C# works\introductory lesson\İs Small Operator\obj\Debug\İs Small Operator.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Ayakdaş\Desktop\Programmin works\C# works\introductory lesson\İs Small Operator\obj\Debug\İs Small Operator.exe
+C:\Users\Furkan Ayakdaş\Desktop\Programmin works\C# works\introductory lesson\İs Small Operator\obj\Debug\İs Small Operator.pdb
+C:\Programmin works\C# works\introductory lesson\İs Small Operator\bin\Debug\İs Small Operator.exe.config
+C:\Programmin works\C# works\introductory lesson\İs Small Operator\bin\Debug\İs Small Operator.exe
+C:\Programmin works\C# works\introductory lesson\İs Small Operator\bin\Debug\İs Small Operator.pdb
+C:\Programmin works\C# works\introductory lesson\İs Small Operator\obj\Debug\İs Small Operator.csproj.AssemblyReference.cache
+C:\Programmin works\C# works\introductory lesson\İs Small Operator\obj\Debug\İs Small Operator.csproj.SuggestedBindingRedirects.cache
+C:\Programmin works\C# works\introductory lesson\İs Small Operator\obj\Debug\İs Small Operator.csproj.CoreCompileInputs.cache
+C:\Programmin works\C# works\introductory lesson\İs Small Operator\obj\Debug\İs Small Operator.exe
+C:\Programmin works\C# works\introductory lesson\İs Small Operator\obj\Debug\İs Small Operator.pdb

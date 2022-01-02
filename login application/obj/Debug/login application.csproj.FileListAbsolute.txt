@@ -1,0 +1,8 @@
+C:\Programmin works\C# works\introductory lesson\login application\bin\Debug\login application.exe.config
+C:\Programmin works\C# works\introductory lesson\login application\bin\Debug\login application.exe
+C:\Programmin works\C# works\introductory lesson\login application\bin\Debug\login application.pdb
+C:\Programmin works\C# works\introductory lesson\login application\obj\Debug\login application.csproj.AssemblyReference.cache
+C:\Programmin works\C# works\introductory lesson\login application\obj\Debug\login application.csproj.SuggestedBindingRedirects.cache
+C:\Programmin works\C# works\introductory lesson\login application\obj\Debug\login application.csproj.CoreCompileInputs.cache
+C:\Programmin works\C# works\introductory lesson\login application\obj\Debug\login application.exe
+C:\Programmin works\C# works\introductory lesson\login application\obj\Debug\login application.pdb

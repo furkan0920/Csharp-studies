@@ -1,0 +1,8 @@
+C:\Programmin works\C# works\introductory lesson\Entered number odd or even\bin\Debug\Entered number odd or even.exe.config
+C:\Programmin works\C# works\introductory lesson\Entered number odd or even\bin\Debug\Entered number odd or even.exe
+C:\Programmin works\C# works\introductory lesson\Entered number odd or even\bin\Debug\Entered number odd or even.pdb
+C:\Programmin works\C# works\introductory lesson\Entered number odd or even\obj\Debug\Entered number odd or even.csproj.AssemblyReference.cache
+C:\Programmin works\C# works\introductory lesson\Entered number odd or even\obj\Debug\Entered number odd or even.csproj.SuggestedBindingRedirects.cache
+C:\Programmin works\C# works\introductory lesson\Entered number odd or even\obj\Debug\Entered number odd or even.csproj.CoreCompileInputs.cache
+C:\Programmin works\C# works\introductory lesson\Entered number odd or even\obj\Debug\Entered number odd or even.exe
+C:\Programmin works\C# works\introductory lesson\Entered number odd or even\obj\Debug\Entered number odd or even.pdb

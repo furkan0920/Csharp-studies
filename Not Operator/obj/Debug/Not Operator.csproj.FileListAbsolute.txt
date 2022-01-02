@@ -1,0 +1,15 @@
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Not Operator\bin\Debug\Not Operator.exe.config
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Not Operator\bin\Debug\Not Operator.exe
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Not Operator\bin\Debug\Not Operator.pdb
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Not Operator\obj\Debug\Not Operator.csproj.AssemblyReference.cache
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Not Operator\obj\Debug\Not Operator.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Not Operator\obj\Debug\Not Operator.exe
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Not Operator\obj\Debug\Not Operator.pdb
+C:\Programmin works\C# works\introductory lesson\Not Operator\bin\Debug\Not Operator.exe.config
+C:\Programmin works\C# works\introductory lesson\Not Operator\bin\Debug\Not Operator.exe
+C:\Programmin works\C# works\introductory lesson\Not Operator\bin\Debug\Not Operator.pdb
+C:\Programmin works\C# works\introductory lesson\Not Operator\obj\Debug\Not Operator.csproj.AssemblyReference.cache
+C:\Programmin works\C# works\introductory lesson\Not Operator\obj\Debug\Not Operator.csproj.SuggestedBindingRedirects.cache
+C:\Programmin works\C# works\introductory lesson\Not Operator\obj\Debug\Not Operator.csproj.CoreCompileInputs.cache
+C:\Programmin works\C# works\introductory lesson\Not Operator\obj\Debug\Not Operator.exe
+C:\Programmin works\C# works\introductory lesson\Not Operator\obj\Debug\Not Operator.pdb

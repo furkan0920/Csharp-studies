@@ -1,0 +1,13 @@
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Not Equal Operator\bin\Debug\Not Equal Operator.exe.config
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Not Equal Operator\bin\Debug\Not Equal Operator.exe
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Not Equal Operator\bin\Debug\Not Equal Operator.pdb
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Not Equal Operator\obj\Debug\Not Equal Operator.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Not Equal Operator\obj\Debug\Not Equal Operator.exe
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Not Equal Operator\obj\Debug\Not Equal Operator.pdb
+C:\Programmin works\C# works\introductory lesson\Not Equal Operator\bin\Debug\Not Equal Operator.exe.config
+C:\Programmin works\C# works\introductory lesson\Not Equal Operator\bin\Debug\Not Equal Operator.exe
+C:\Programmin works\C# works\introductory lesson\Not Equal Operator\bin\Debug\Not Equal Operator.pdb
+C:\Programmin works\C# works\introductory lesson\Not Equal Operator\obj\Debug\Not Equal Operator.csproj.SuggestedBindingRedirects.cache
+C:\Programmin works\C# works\introductory lesson\Not Equal Operator\obj\Debug\Not Equal Operator.csproj.CoreCompileInputs.cache
+C:\Programmin works\C# works\introductory lesson\Not Equal Operator\obj\Debug\Not Equal Operator.exe
+C:\Programmin works\C# works\introductory lesson\Not Equal Operator\obj\Debug\Not Equal Operator.pdb

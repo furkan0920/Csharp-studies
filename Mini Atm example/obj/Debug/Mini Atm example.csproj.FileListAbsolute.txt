@@ -1,0 +1,8 @@
+C:\Programmin works\C# works\introductory lesson\Mini Atm example\bin\Debug\Mini Atm example.exe.config
+C:\Programmin works\C# works\introductory lesson\Mini Atm example\bin\Debug\Mini Atm example.exe
+C:\Programmin works\C# works\introductory lesson\Mini Atm example\bin\Debug\Mini Atm example.pdb
+C:\Programmin works\C# works\introductory lesson\Mini Atm example\obj\Debug\Mini Atm example.csproj.SuggestedBindingRedirects.cache
+C:\Programmin works\C# works\introductory lesson\Mini Atm example\obj\Debug\Mini Atm example.csproj.CoreCompileInputs.cache
+C:\Programmin works\C# works\introductory lesson\Mini Atm example\obj\Debug\Mini Atm example.exe
+C:\Programmin works\C# works\introductory lesson\Mini Atm example\obj\Debug\Mini Atm example.pdb
+C:\Programmin works\C# works\introductory lesson\Mini Atm example\obj\Debug\Mini Atm example.csproj.AssemblyReference.cache

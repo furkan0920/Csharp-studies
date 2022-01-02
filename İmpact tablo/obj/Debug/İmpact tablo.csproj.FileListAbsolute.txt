@@ -1,0 +1,7 @@
+C:\Programmin works\C# works\introductory lesson\İmpact tablo\obj\Debug\İmpact tablo.csproj.SuggestedBindingRedirects.cache
+C:\Programmin works\C# works\introductory lesson\İmpact tablo\obj\Debug\İmpact tablo.csproj.CoreCompileInputs.cache
+C:\Programmin works\C# works\introductory lesson\İmpact tablo\bin\Debug\İmpact tablo.exe.config
+C:\Programmin works\C# works\introductory lesson\İmpact tablo\bin\Debug\İmpact tablo.exe
+C:\Programmin works\C# works\introductory lesson\İmpact tablo\bin\Debug\İmpact tablo.pdb
+C:\Programmin works\C# works\introductory lesson\İmpact tablo\obj\Debug\İmpact tablo.exe
+C:\Programmin works\C# works\introductory lesson\İmpact tablo\obj\Debug\İmpact tablo.pdb

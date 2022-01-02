@@ -1,0 +1,15 @@
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Byte Data Type\bin\Debug\Byte Data Type.exe.config
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Byte Data Type\bin\Debug\Byte Data Type.exe
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Byte Data Type\bin\Debug\Byte Data Type.pdb
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Byte Data Type\obj\Debug\Byte Data Type.csproj.AssemblyReference.cache
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Byte Data Type\obj\Debug\Byte Data Type.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Byte Data Type\obj\Debug\Byte Data Type.exe
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Byte Data Type\obj\Debug\Byte Data Type.pdb
+C:\Programmin works\C# works\introductory lesson\Byte Data Type\bin\Debug\Byte Data Type.exe.config
+C:\Programmin works\C# works\introductory lesson\Byte Data Type\bin\Debug\Byte Data Type.exe
+C:\Programmin works\C# works\introductory lesson\Byte Data Type\bin\Debug\Byte Data Type.pdb
+C:\Programmin works\C# works\introductory lesson\Byte Data Type\obj\Debug\Byte Data Type.csproj.AssemblyReference.cache
+C:\Programmin works\C# works\introductory lesson\Byte Data Type\obj\Debug\Byte Data Type.csproj.SuggestedBindingRedirects.cache
+C:\Programmin works\C# works\introductory lesson\Byte Data Type\obj\Debug\Byte Data Type.csproj.CoreCompileInputs.cache
+C:\Programmin works\C# works\introductory lesson\Byte Data Type\obj\Debug\Byte Data Type.exe
+C:\Programmin works\C# works\introductory lesson\Byte Data Type\obj\Debug\Byte Data Type.pdb

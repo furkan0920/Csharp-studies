@@ -1,0 +1,8 @@
+C:\Programmin works\C# works\introductory lesson\Parametre method\bin\Debug\Parametre method.exe.config
+C:\Programmin works\C# works\introductory lesson\Parametre method\bin\Debug\Parametre method.exe
+C:\Programmin works\C# works\introductory lesson\Parametre method\bin\Debug\Parametre method.pdb
+C:\Programmin works\C# works\introductory lesson\Parametre method\obj\Debug\Parametre method.csproj.SuggestedBindingRedirects.cache
+C:\Programmin works\C# works\introductory lesson\Parametre method\obj\Debug\Parametre method.csproj.CoreCompileInputs.cache
+C:\Programmin works\C# works\introductory lesson\Parametre method\obj\Debug\Parametre method.exe
+C:\Programmin works\C# works\introductory lesson\Parametre method\obj\Debug\Parametre method.pdb
+C:\Programmin works\C# works\introductory lesson\Parametre method\obj\Debug\Parametre method.csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Addition and Subtraction Operator\bin\Debug\Addition and Subtraction Operator.exe.config
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Addition and Subtraction Operator\bin\Debug\Addition and Subtraction Operator.exe
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Addition and Subtraction Operator\bin\Debug\Addition and Subtraction Operator.pdb
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Addition and Subtraction Operator\obj\Debug\Addition and Subtraction Operator.csproj.AssemblyReference.cache
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Addition and Subtraction Operator\obj\Debug\Addition and Subtraction Operator.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Addition and Subtraction Operator\obj\Debug\Addition and Subtraction Operator.exe
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Addition and Subtraction Operator\obj\Debug\Addition and Subtraction Operator.pdb
+C:\Programmin works\C# works\introductory lesson\Addition and Subtraction Operator\bin\Debug\Addition and Subtraction Operator.exe.config
+C:\Programmin works\C# works\introductory lesson\Addition and Subtraction Operator\bin\Debug\Addition and Subtraction Operator.exe
+C:\Programmin works\C# works\introductory lesson\Addition and Subtraction Operator\bin\Debug\Addition and Subtraction Operator.pdb
+C:\Programmin works\C# works\introductory lesson\Addition and Subtraction Operator\obj\Debug\Addition and Subtraction Operator.csproj.AssemblyReference.cache
+C:\Programmin works\C# works\introductory lesson\Addition and Subtraction Operator\obj\Debug\Addition and Subtraction Operator.csproj.SuggestedBindingRedirects.cache
+C:\Programmin works\C# works\introductory lesson\Addition and Subtraction Operator\obj\Debug\Addition and Subtraction Operator.csproj.CoreCompileInputs.cache
+C:\Programmin works\C# works\introductory lesson\Addition and Subtraction Operator\obj\Debug\Addition and Subtraction Operator.exe
+C:\Programmin works\C# works\introductory lesson\Addition and Subtraction Operator\obj\Debug\Addition and Subtraction Operator.pdb

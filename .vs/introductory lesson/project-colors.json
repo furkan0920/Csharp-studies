@@ -1,0 +1,256 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4b2c6575-1812-49aa-a7fc-1f329ec1004d": {
+      "ProjectGuid": "4b2c6575-1812-49aa-a7fc-1f329ec1004d",
+      "DisplayName": "Assignment Operator",
+      "ColorIndex": 0
+    },
+    "e1bd6bbd-827a-4138-bd11-6b0bb8d889d5": {
+      "ProjectGuid": "e1bd6bbd-827a-4138-bd11-6b0bb8d889d5",
+      "DisplayName": "Getting value from user",
+      "ColorIndex": 1
+    },
+    "df11127c-5ec0-4279-86c4-4e6db059a419": {
+      "ProjectGuid": "df11127c-5ec0-4279-86c4-4e6db059a419",
+      "DisplayName": "Type Conversions",
+      "ColorIndex": 2
+    },
+    "81986b4f-1a76-4d60-bb28-062bbac8d9ac": {
+      "ProjectGuid": "81986b4f-1a76-4d60-bb28-062bbac8d9ac",
+      "DisplayName": "Breakpoint and Tooltip importance",
+      "ColorIndex": 3
+    },
+    "67c99918-980c-4052-aaf2-d53e4d9259c0": {
+      "ProjectGuid": "67c99918-980c-4052-aaf2-d53e4d9259c0",
+      "DisplayName": "Byte Data Type",
+      "ColorIndex": 4
+    },
+    "58268a6b-467c-45e8-8ebd-2a165c5a6c1d": {
+      "ProjectGuid": "58268a6b-467c-45e8-8ebd-2a165c5a6c1d",
+      "DisplayName": "ders32",
+      "ColorIndex": 5
+    },
+    "233a80f4-babd-46b5-a75e-49fe9a9eb62b": {
+      "ProjectGuid": "233a80f4-babd-46b5-a75e-49fe9a9eb62b",
+      "DisplayName": "İs greather Operator",
+      "ColorIndex": 6
+    },
+    "985fcf63-5840-497c-a682-4c391950e350": {
+      "ProjectGuid": "985fcf63-5840-497c-a682-4c391950e350",
+      "DisplayName": "if,else 1",
+      "ColorIndex": 7
+    },
+    "fb0f69d9-90de-4d9c-8d67-617af2c8ed4e": {
+      "ProjectGuid": "fb0f69d9-90de-4d9c-8d67-617af2c8ed4e",
+      "DisplayName": "İncrement and Decrement Operator",
+      "ColorIndex": 8
+    },
+    "b2780ae7-c29e-4ba0-8a64-cf6f1c3cbd64": {
+      "ProjectGuid": "b2780ae7-c29e-4ba0-8a64-cf6f1c3cbd64",
+      "DisplayName": "elseif",
+      "ColorIndex": 9
+    },
+    "14cf24d8-69ed-4694-b818-b6aff7cdf84a": {
+      "ProjectGuid": "14cf24d8-69ed-4694-b818-b6aff7cdf84a",
+      "DisplayName": "Mini Atm example",
+      "ColorIndex": 10
+    },
+    "38058843-ec70-4024-9b39-03ccd1a9ba65": {
+      "ProjectGuid": "38058843-ec70-4024-9b39-03ccd1a9ba65",
+      "DisplayName": "İnt Data Type",
+      "ColorIndex": 11
+    },
+    "2a1fe3ac-419e-436b-bf85-1ea723a8e2d0": {
+      "ProjectGuid": "2a1fe3ac-419e-436b-bf85-1ea723a8e2d0",
+      "DisplayName": "Body kitle indesk",
+      "ColorIndex": 12
+    },
+    "89a0fcd5-b57d-4659-a9ad-258ecdc1f576": {
+      "ProjectGuid": "89a0fcd5-b57d-4659-a9ad-258ecdc1f576",
+      "DisplayName": "introductory lesson",
+      "ColorIndex": 13
+    },
+    "01fb4284-fbb1-4a62-8482-a029928249d4": {
+      "ProjectGuid": "01fb4284-fbb1-4a62-8482-a029928249d4",
+      "DisplayName": "Short Data Type",
+      "ColorIndex": 14
+    },
+    "959294c3-dfd7-44b7-bcd3-660833cb9cea": {
+      "ProjectGuid": "959294c3-dfd7-44b7-bcd3-660833cb9cea",
+      "DisplayName": "Long Data Type",
+      "ColorIndex": 15
+    },
+    "13e7bab5-1971-4242-9126-0b64c532a291": {
+      "ProjectGuid": "13e7bab5-1971-4242-9126-0b64c532a291",
+      "DisplayName": "Float Data Type",
+      "ColorIndex": 0
+    },
+    "4c23c2c4-1e74-4d22-b342-e9fe6009a901": {
+      "ProjectGuid": "4c23c2c4-1e74-4d22-b342-e9fe6009a901",
+      "DisplayName": "Double Data Type",
+      "ColorIndex": 1
+    },
+    "32eb3a99-eb5b-4049-bfa8-ce43da91de76": {
+      "ProjectGuid": "32eb3a99-eb5b-4049-bfa8-ce43da91de76",
+      "DisplayName": "Char Data Type",
+      "ColorIndex": 2
+    },
+    "9d22984a-c1fb-4ca8-90fc-bce8e0c8f4df": {
+      "ProjectGuid": "9d22984a-c1fb-4ca8-90fc-bce8e0c8f4df",
+      "DisplayName": "String Data Type",
+      "ColorIndex": 3
+    },
+    "075e1a38-56d3-42be-a1eb-bfc45fb5a5ce": {
+      "ProjectGuid": "075e1a38-56d3-42be-a1eb-bfc45fb5a5ce",
+      "DisplayName": "Bool Data Type",
+      "ColorIndex": 4
+    },
+    "cc8c087e-edae-45c8-81a7-42c0dba41e23": {
+      "ProjectGuid": "cc8c087e-edae-45c8-81a7-42c0dba41e23",
+      "DisplayName": "Object Data Type",
+      "ColorIndex": 5
+    },
+    "c37c3adc-3278-4b98-a13c-9f470ff0899d": {
+      "ProjectGuid": "c37c3adc-3278-4b98-a13c-9f470ff0899d",
+      "DisplayName": "Addition and Subtraction Operator",
+      "ColorIndex": 6
+    },
+    "cee3238d-8cf2-4e25-8b20-e9c0cea0d344": {
+      "ProjectGuid": "cee3238d-8cf2-4e25-8b20-e9c0cea0d344",
+      "DisplayName": "Multiplication and Division Operators",
+      "ColorIndex": 7
+    },
+    "e57c1ebe-27b2-48cd-a261-e994a1147b74": {
+      "ProjectGuid": "e57c1ebe-27b2-48cd-a261-e994a1147b74",
+      "DisplayName": "Mode Get Operator",
+      "ColorIndex": 8
+    },
+    "3cf469f3-5de4-4094-9000-d97ebe432431": {
+      "ProjectGuid": "3cf469f3-5de4-4094-9000-d97ebe432431",
+      "DisplayName": "Equals Operator",
+      "ColorIndex": 9
+    },
+    "25338bdf-7594-42f8-a16c-dec1311ca528": {
+      "ProjectGuid": "25338bdf-7594-42f8-a16c-dec1311ca528",
+      "DisplayName": "Not Equal Operator",
+      "ColorIndex": 10
+    },
+    "b689fada-3d44-4851-bd9d-79eeb96ded7c": {
+      "ProjectGuid": "b689fada-3d44-4851-bd9d-79eeb96ded7c",
+      "DisplayName": "İs Small Operator",
+      "ColorIndex": 11
+    },
+    "ffd1fee1-6f49-481e-9f7e-a43043b58cbc": {
+      "ProjectGuid": "ffd1fee1-6f49-481e-9f7e-a43043b58cbc",
+      "DisplayName": "And Operator",
+      "ColorIndex": 12
+    },
+    "a3316e5f-575d-46a7-9f1f-98eeaf127332": {
+      "ProjectGuid": "a3316e5f-575d-46a7-9f1f-98eeaf127332",
+      "DisplayName": "Or Operator",
+      "ColorIndex": 13
+    },
+    "d0f63fde-80b1-41ca-b4df-f2664e62cb8b": {
+      "ProjectGuid": "d0f63fde-80b1-41ca-b4df-f2664e62cb8b",
+      "DisplayName": "Not Operator",
+      "ColorIndex": 14
+    },
+    "85bbc0ba-03fd-4b6d-b70a-db82bc22c469": {
+      "ProjectGuid": "85bbc0ba-03fd-4b6d-b70a-db82bc22c469",
+      "DisplayName": "Extra Operator",
+      "ColorIndex": 15
+    },
+    "95fb8723-d574-46b1-b5b6-0c6a315f9fb8": {
+      "ProjectGuid": "95fb8723-d574-46b1-b5b6-0c6a315f9fb8",
+      "DisplayName": "switch case",
+      "ColorIndex": 0
+    },
+    "170b9abe-8138-4ab4-9200-143dc34f089d": {
+      "ProjectGuid": "170b9abe-8138-4ab4-9200-143dc34f089d",
+      "DisplayName": "for loops",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "a6f2c574-6aa1-4f4e-bcc5-81ab5472456b": {
+      "ProjectGuid": "a6f2c574-6aa1-4f4e-bcc5-81ab5472456b",
+      "DisplayName": "nested for loops",
+      "ColorIndex": 2
+    },
+    "0e2da915-6e1c-4188-8723-0aec8b81d104": {
+      "ProjectGuid": "0e2da915-6e1c-4188-8723-0aec8b81d104",
+      "DisplayName": "while loops",
+      "ColorIndex": 3
+    },
+    "88e7bd19-9bda-427c-bda3-e87388cbf85d": {
+      "ProjectGuid": "88e7bd19-9bda-427c-bda3-e87388cbf85d",
+      "DisplayName": "Do While loops",
+      "ColorIndex": 4
+    },
+    "42157326-51e0-4c67-b87f-2fe06f2ec91c": {
+      "ProjectGuid": "42157326-51e0-4c67-b87f-2fe06f2ec91c",
+      "DisplayName": "BreakAndContinue",
+      "ColorIndex": 5
+    },
+    "350ee284-80fc-4193-8746-f04676437ffd": {
+      "ProjectGuid": "350ee284-80fc-4193-8746-f04676437ffd",
+      "DisplayName": "İmpact tablo",
+      "ColorIndex": 6
+    },
+    "256bf99a-d1f0-43ad-8574-81cab33a758e": {
+      "ProjectGuid": "256bf99a-d1f0-43ad-8574-81cab33a758e",
+      "DisplayName": "login application",
+      "ColorIndex": 7
+    },
+    "16b361f2-2abe-43c5-895b-18b134d4a861": {
+      "ProjectGuid": "16b361f2-2abe-43c5-895b-18b134d4a861",
+      "DisplayName": "getting value collection",
+      "ColorIndex": 8
+    },
+    "fe6a1d4e-38b2-4ddd-aab4-7de40cb5682d": {
+      "ProjectGuid": "fe6a1d4e-38b2-4ddd-aab4-7de40cb5682d",
+      "DisplayName": "Array",
+      "ColorIndex": 9
+    },
+    "8dc261a9-bee5-4068-8172-115c2783f6aa": {
+      "ProjectGuid": "8dc261a9-bee5-4068-8172-115c2783f6aa",
+      "DisplayName": "Array data type",
+      "ColorIndex": 10
+    },
+    "14d34997-7943-48c1-8808-a8c83b840364": {
+      "ProjectGuid": "14d34997-7943-48c1-8808-a8c83b840364",
+      "DisplayName": "Array getting value user",
+      "ColorIndex": 11
+    },
+    "d8cdd985-6660-4c83-bfa6-6e92f041b476": {
+      "ProjectGuid": "d8cdd985-6660-4c83-bfa6-6e92f041b476",
+      "DisplayName": "ForEach loop",
+      "ColorIndex": 12
+    },
+    "0bd99e7e-a7d8-4189-bf54-5b933bf6c85b": {
+      "ProjectGuid": "0bd99e7e-a7d8-4189-bf54-5b933bf6c85b",
+      "DisplayName": "Array example",
+      "ColorIndex": 13
+    },
+    "53507d7d-f985-44fd-a832-1feaf442cbb8": {
+      "ProjectGuid": "53507d7d-f985-44fd-a832-1feaf442cbb8",
+      "DisplayName": "Entered number odd or even",
+      "ColorIndex": 14
+    },
+    "90b6bcaa-18cb-4ead-9b74-f2f7b60ba2f0": {
+      "ProjectGuid": "90b6bcaa-18cb-4ead-9b74-f2f7b60ba2f0",
+      "DisplayName": "metodlar introduction",
+      "ColorIndex": 15
+    },
+    "a054a5b9-d485-49fa-811c-0ba14e9042a5": {
+      "ProjectGuid": "a054a5b9-d485-49fa-811c-0ba14e9042a5",
+      "DisplayName": "Parametre method",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

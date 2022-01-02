@@ -1,0 +1,15 @@
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Extra Operator\bin\Debug\Extra Operator.exe.config
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Extra Operator\bin\Debug\Extra Operator.exe
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Extra Operator\bin\Debug\Extra Operator.pdb
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Extra Operator\obj\Debug\Extra Operator.csproj.AssemblyReference.cache
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Extra Operator\obj\Debug\Extra Operator.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Extra Operator\obj\Debug\Extra Operator.exe
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Extra Operator\obj\Debug\Extra Operator.pdb
+C:\Programmin works\C# works\introductory lesson\Extra Operator\bin\Debug\Extra Operator.exe.config
+C:\Programmin works\C# works\introductory lesson\Extra Operator\bin\Debug\Extra Operator.exe
+C:\Programmin works\C# works\introductory lesson\Extra Operator\bin\Debug\Extra Operator.pdb
+C:\Programmin works\C# works\introductory lesson\Extra Operator\obj\Debug\Extra Operator.csproj.AssemblyReference.cache
+C:\Programmin works\C# works\introductory lesson\Extra Operator\obj\Debug\Extra Operator.csproj.SuggestedBindingRedirects.cache
+C:\Programmin works\C# works\introductory lesson\Extra Operator\obj\Debug\Extra Operator.csproj.CoreCompileInputs.cache
+C:\Programmin works\C# works\introductory lesson\Extra Operator\obj\Debug\Extra Operator.exe
+C:\Programmin works\C# works\introductory lesson\Extra Operator\obj\Debug\Extra Operator.pdb

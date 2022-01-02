@@ -1,0 +1,7 @@
+C:\Programmin works\C# works\introductory lesson\Array example\bin\Debug\Array example.exe.config
+C:\Programmin works\C# works\introductory lesson\Array example\bin\Debug\Array example.exe
+C:\Programmin works\C# works\introductory lesson\Array example\bin\Debug\Array example.pdb
+C:\Programmin works\C# works\introductory lesson\Array example\obj\Debug\Array example.csproj.SuggestedBindingRedirects.cache
+C:\Programmin works\C# works\introductory lesson\Array example\obj\Debug\Array example.csproj.CoreCompileInputs.cache
+C:\Programmin works\C# works\introductory lesson\Array example\obj\Debug\Array example.exe
+C:\Programmin works\C# works\introductory lesson\Array example\obj\Debug\Array example.pdb

@@ -1,0 +1,12 @@
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\İnt Data Type\bin\Debug\İnt Data Type.exe.config
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\İnt Data Type\bin\Debug\İnt Data Type.exe
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\İnt Data Type\bin\Debug\İnt Data Type.pdb
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\İnt Data Type\obj\Debug\İnt Data Type.csproj.AssemblyReference.cache
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\İnt Data Type\obj\Debug\İnt Data Type.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\İnt Data Type\obj\Debug\İnt Data Type.exe
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\İnt Data Type\obj\Debug\İnt Data Type.pdb
+C:\Programmin works\C# works\introductory lesson\İnt Data Type\obj\Debug\İnt Data Type.csproj.AssemblyReference.cache
+C:\Programmin works\C# works\introductory lesson\İnt Data Type\obj\Debug\İnt Data Type.csproj.SuggestedBindingRedirects.cache
+C:\Programmin works\C# works\introductory lesson\İnt Data Type\obj\Debug\İnt Data Type.csproj.CoreCompileInputs.cache
+C:\Programmin works\C# works\introductory lesson\İnt Data Type\obj\Debug\İnt Data Type.exe
+C:\Programmin works\C# works\introductory lesson\İnt Data Type\obj\Debug\İnt Data Type.pdb

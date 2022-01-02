@@ -1,0 +1,14 @@
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Bool Data Type\bin\Debug\Bool Data Type.exe.config
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Bool Data Type\bin\Debug\Bool Data Type.exe
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Bool Data Type\bin\Debug\Bool Data Type.pdb
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Bool Data Type\obj\Debug\Bool Data Type.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Bool Data Type\obj\Debug\Bool Data Type.exe
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Bool Data Type\obj\Debug\Bool Data Type.pdb
+C:\Programmin works\C# works\introductory lesson\Bool Data Type\bin\Debug\Bool Data Type.exe.config
+C:\Programmin works\C# works\introductory lesson\Bool Data Type\bin\Debug\Bool Data Type.exe
+C:\Programmin works\C# works\introductory lesson\Bool Data Type\bin\Debug\Bool Data Type.pdb
+C:\Programmin works\C# works\introductory lesson\Bool Data Type\obj\Debug\Bool Data Type.csproj.AssemblyReference.cache
+C:\Programmin works\C# works\introductory lesson\Bool Data Type\obj\Debug\Bool Data Type.csproj.SuggestedBindingRedirects.cache
+C:\Programmin works\C# works\introductory lesson\Bool Data Type\obj\Debug\Bool Data Type.csproj.CoreCompileInputs.cache
+C:\Programmin works\C# works\introductory lesson\Bool Data Type\obj\Debug\Bool Data Type.exe
+C:\Programmin works\C# works\introductory lesson\Bool Data Type\obj\Debug\Bool Data Type.pdb

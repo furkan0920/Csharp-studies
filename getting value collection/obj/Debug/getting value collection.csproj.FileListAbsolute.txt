@@ -1,0 +1,8 @@
+C:\Programmin works\C# works\introductory lesson\getting value collection\bin\Debug\getting value collection.exe.config
+C:\Programmin works\C# works\introductory lesson\getting value collection\bin\Debug\getting value collection.exe
+C:\Programmin works\C# works\introductory lesson\getting value collection\bin\Debug\getting value collection.pdb
+C:\Programmin works\C# works\introductory lesson\getting value collection\obj\Debug\getting value collection.csproj.AssemblyReference.cache
+C:\Programmin works\C# works\introductory lesson\getting value collection\obj\Debug\getting value collection.csproj.SuggestedBindingRedirects.cache
+C:\Programmin works\C# works\introductory lesson\getting value collection\obj\Debug\getting value collection.csproj.CoreCompileInputs.cache
+C:\Programmin works\C# works\introductory lesson\getting value collection\obj\Debug\getting value collection.exe
+C:\Programmin works\C# works\introductory lesson\getting value collection\obj\Debug\getting value collection.pdb

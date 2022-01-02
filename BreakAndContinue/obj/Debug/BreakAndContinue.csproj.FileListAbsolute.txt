@@ -1,0 +1,7 @@
+C:\Programmin works\C# works\introductory lesson\BreakAndContinue\bin\Debug\BreakAndContinue.exe.config
+C:\Programmin works\C# works\introductory lesson\BreakAndContinue\bin\Debug\BreakAndContinue.exe
+C:\Programmin works\C# works\introductory lesson\BreakAndContinue\bin\Debug\BreakAndContinue.pdb
+C:\Programmin works\C# works\introductory lesson\BreakAndContinue\obj\Debug\BreakAndContinue.csproj.SuggestedBindingRedirects.cache
+C:\Programmin works\C# works\introductory lesson\BreakAndContinue\obj\Debug\BreakAndContinue.csproj.CoreCompileInputs.cache
+C:\Programmin works\C# works\introductory lesson\BreakAndContinue\obj\Debug\BreakAndContinue.exe
+C:\Programmin works\C# works\introductory lesson\BreakAndContinue\obj\Debug\BreakAndContinue.pdb

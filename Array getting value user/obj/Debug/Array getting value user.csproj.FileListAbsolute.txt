@@ -1,0 +1,7 @@
+C:\Programmin works\C# works\introductory lesson\Array getting value user\bin\Debug\Array getting value user.exe.config
+C:\Programmin works\C# works\introductory lesson\Array getting value user\bin\Debug\Array getting value user.exe
+C:\Programmin works\C# works\introductory lesson\Array getting value user\bin\Debug\Array getting value user.pdb
+C:\Programmin works\C# works\introductory lesson\Array getting value user\obj\Debug\Array getting value user.csproj.SuggestedBindingRedirects.cache
+C:\Programmin works\C# works\introductory lesson\Array getting value user\obj\Debug\Array getting value user.csproj.CoreCompileInputs.cache
+C:\Programmin works\C# works\introductory lesson\Array getting value user\obj\Debug\Array getting value user.exe
+C:\Programmin works\C# works\introductory lesson\Array getting value user\obj\Debug\Array getting value user.pdb

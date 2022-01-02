@@ -1,0 +1,8 @@
+C:\Programmin works\C# works\introductory lesson\ForEach loop\bin\Debug\ForEach loop.exe.config
+C:\Programmin works\C# works\introductory lesson\ForEach loop\bin\Debug\ForEach loop.exe
+C:\Programmin works\C# works\introductory lesson\ForEach loop\bin\Debug\ForEach loop.pdb
+C:\Programmin works\C# works\introductory lesson\ForEach loop\obj\Debug\ForEach loop.csproj.AssemblyReference.cache
+C:\Programmin works\C# works\introductory lesson\ForEach loop\obj\Debug\ForEach loop.csproj.SuggestedBindingRedirects.cache
+C:\Programmin works\C# works\introductory lesson\ForEach loop\obj\Debug\ForEach loop.csproj.CoreCompileInputs.cache
+C:\Programmin works\C# works\introductory lesson\ForEach loop\obj\Debug\ForEach loop.exe
+C:\Programmin works\C# works\introductory lesson\ForEach loop\obj\Debug\ForEach loop.pdb

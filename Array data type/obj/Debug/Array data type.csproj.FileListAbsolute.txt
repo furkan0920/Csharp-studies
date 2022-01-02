@@ -1,0 +1,7 @@
+C:\Programmin works\C# works\introductory lesson\Array data type\obj\Debug\Array data type.csproj.SuggestedBindingRedirects.cache
+C:\Programmin works\C# works\introductory lesson\Array data type\obj\Debug\Array data type.csproj.CoreCompileInputs.cache
+C:\Programmin works\C# works\introductory lesson\Array data type\bin\Debug\Array data type.exe.config
+C:\Programmin works\C# works\introductory lesson\Array data type\bin\Debug\Array data type.exe
+C:\Programmin works\C# works\introductory lesson\Array data type\bin\Debug\Array data type.pdb
+C:\Programmin works\C# works\introductory lesson\Array data type\obj\Debug\Array data type.exe
+C:\Programmin works\C# works\introductory lesson\Array data type\obj\Debug\Array data type.pdb

@@ -1,0 +1,7 @@
+C:\Programmin works\C# works\introductory lesson\while loops\bin\Debug\while loops.exe.config
+C:\Programmin works\C# works\introductory lesson\while loops\bin\Debug\while loops.exe
+C:\Programmin works\C# works\introductory lesson\while loops\bin\Debug\while loops.pdb
+C:\Programmin works\C# works\introductory lesson\while loops\obj\Debug\while loops.csproj.SuggestedBindingRedirects.cache
+C:\Programmin works\C# works\introductory lesson\while loops\obj\Debug\while loops.csproj.CoreCompileInputs.cache
+C:\Programmin works\C# works\introductory lesson\while loops\obj\Debug\while loops.exe
+C:\Programmin works\C# works\introductory lesson\while loops\obj\Debug\while loops.pdb

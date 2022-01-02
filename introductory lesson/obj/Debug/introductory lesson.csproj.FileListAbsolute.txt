@@ -1,0 +1,15 @@
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\introductory lesson\bin\Debug\introductory lesson.exe.config
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\introductory lesson\bin\Debug\introductory lesson.exe
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\introductory lesson\bin\Debug\introductory lesson.pdb
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\introductory lesson\obj\Debug\introductory lesson.csproj.AssemblyReference.cache
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\introductory lesson\obj\Debug\introductory lesson.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\introductory lesson\obj\Debug\introductory lesson.exe
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\introductory lesson\obj\Debug\introductory lesson.pdb
+C:\Programmin works\C# works\introductory lesson\introductory lesson\bin\Debug\introductory lesson.exe.config
+C:\Programmin works\C# works\introductory lesson\introductory lesson\bin\Debug\introductory lesson.exe
+C:\Programmin works\C# works\introductory lesson\introductory lesson\bin\Debug\introductory lesson.pdb
+C:\Programmin works\C# works\introductory lesson\introductory lesson\obj\Debug\introductory lesson.csproj.AssemblyReference.cache
+C:\Programmin works\C# works\introductory lesson\introductory lesson\obj\Debug\introductory lesson.csproj.SuggestedBindingRedirects.cache
+C:\Programmin works\C# works\introductory lesson\introductory lesson\obj\Debug\introductory lesson.csproj.CoreCompileInputs.cache
+C:\Programmin works\C# works\introductory lesson\introductory lesson\obj\Debug\introductory lesson.exe
+C:\Programmin works\C# works\introductory lesson\introductory lesson\obj\Debug\introductory lesson.pdb

@@ -1,0 +1,8 @@
+C:\Programmin works\C# works\introductory lesson\Type Conversions\bin\Debug\Type Conversions.exe.config
+C:\Programmin works\C# works\introductory lesson\Type Conversions\bin\Debug\Type Conversions.exe
+C:\Programmin works\C# works\introductory lesson\Type Conversions\bin\Debug\Type Conversions.pdb
+C:\Programmin works\C# works\introductory lesson\Type Conversions\obj\Debug\Type Conversions.csproj.AssemblyReference.cache
+C:\Programmin works\C# works\introductory lesson\Type Conversions\obj\Debug\Type Conversions.csproj.SuggestedBindingRedirects.cache
+C:\Programmin works\C# works\introductory lesson\Type Conversions\obj\Debug\Type Conversions.csproj.CoreCompileInputs.cache
+C:\Programmin works\C# works\introductory lesson\Type Conversions\obj\Debug\Type Conversions.exe
+C:\Programmin works\C# works\introductory lesson\Type Conversions\obj\Debug\Type Conversions.pdb

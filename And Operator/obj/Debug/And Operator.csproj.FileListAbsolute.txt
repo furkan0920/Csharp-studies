@@ -1,0 +1,8 @@
+C:\Programmin works\C# works\introductory lesson\And Operator\bin\Debug\And Operator.exe.config
+C:\Programmin works\C# works\introductory lesson\And Operator\bin\Debug\And Operator.exe
+C:\Programmin works\C# works\introductory lesson\And Operator\bin\Debug\And Operator.pdb
+C:\Programmin works\C# works\introductory lesson\And Operator\obj\Debug\And Operator.csproj.AssemblyReference.cache
+C:\Programmin works\C# works\introductory lesson\And Operator\obj\Debug\And Operator.csproj.SuggestedBindingRedirects.cache
+C:\Programmin works\C# works\introductory lesson\And Operator\obj\Debug\And Operator.csproj.CoreCompileInputs.cache
+C:\Programmin works\C# works\introductory lesson\And Operator\obj\Debug\And Operator.exe
+C:\Programmin works\C# works\introductory lesson\And Operator\obj\Debug\And Operator.pdb

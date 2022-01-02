@@ -1,0 +1,8 @@
+C:\Programmin works\C# works\introductory lesson\metodlar introduction\bin\Debug\metodlar introduction.exe.config
+C:\Programmin works\C# works\introductory lesson\metodlar introduction\bin\Debug\metodlar introduction.exe
+C:\Programmin works\C# works\introductory lesson\metodlar introduction\bin\Debug\metodlar introduction.pdb
+C:\Programmin works\C# works\introductory lesson\metodlar introduction\obj\Debug\metodlar introduction.csproj.AssemblyReference.cache
+C:\Programmin works\C# works\introductory lesson\metodlar introduction\obj\Debug\metodlar introduction.csproj.SuggestedBindingRedirects.cache
+C:\Programmin works\C# works\introductory lesson\metodlar introduction\obj\Debug\metodlar introduction.csproj.CoreCompileInputs.cache
+C:\Programmin works\C# works\introductory lesson\metodlar introduction\obj\Debug\metodlar introduction.exe
+C:\Programmin works\C# works\introductory lesson\metodlar introduction\obj\Debug\metodlar introduction.pdb

@@ -1,0 +1,15 @@
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Getting value from user\bin\Debug\Getting value from user.exe.config
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Getting value from user\bin\Debug\Getting value from user.exe
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Getting value from user\bin\Debug\Getting value from user.pdb
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Getting value from user\obj\Debug\Getting value from user.csproj.AssemblyReference.cache
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Getting value from user\obj\Debug\Getting value from user.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Getting value from user\obj\Debug\Getting value from user.exe
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Getting value from user\obj\Debug\Getting value from user.pdb
+C:\Programmin works\C# works\introductory lesson\Getting value from user\bin\Debug\Getting value from user.exe.config
+C:\Programmin works\C# works\introductory lesson\Getting value from user\bin\Debug\Getting value from user.exe
+C:\Programmin works\C# works\introductory lesson\Getting value from user\bin\Debug\Getting value from user.pdb
+C:\Programmin works\C# works\introductory lesson\Getting value from user\obj\Debug\Getting value from user.csproj.AssemblyReference.cache
+C:\Programmin works\C# works\introductory lesson\Getting value from user\obj\Debug\Getting value from user.csproj.SuggestedBindingRedirects.cache
+C:\Programmin works\C# works\introductory lesson\Getting value from user\obj\Debug\Getting value from user.csproj.CoreCompileInputs.cache
+C:\Programmin works\C# works\introductory lesson\Getting value from user\obj\Debug\Getting value from user.exe
+C:\Programmin works\C# works\introductory lesson\Getting value from user\obj\Debug\Getting value from user.pdb

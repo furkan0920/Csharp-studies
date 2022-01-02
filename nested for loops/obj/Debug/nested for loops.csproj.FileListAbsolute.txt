@@ -1,0 +1,8 @@
+C:\Programmin works\C# works\introductory lesson\nested for loops\bin\Debug\nested for loops.exe.config
+C:\Programmin works\C# works\introductory lesson\nested for loops\bin\Debug\nested for loops.exe
+C:\Programmin works\C# works\introductory lesson\nested for loops\bin\Debug\nested for loops.pdb
+C:\Programmin works\C# works\introductory lesson\nested for loops\obj\Debug\nested for loops.csproj.AssemblyReference.cache
+C:\Programmin works\C# works\introductory lesson\nested for loops\obj\Debug\nested for loops.csproj.SuggestedBindingRedirects.cache
+C:\Programmin works\C# works\introductory lesson\nested for loops\obj\Debug\nested for loops.csproj.CoreCompileInputs.cache
+C:\Programmin works\C# works\introductory lesson\nested for loops\obj\Debug\nested for loops.exe
+C:\Programmin works\C# works\introductory lesson\nested for loops\obj\Debug\nested for loops.pdb

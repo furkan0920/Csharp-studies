@@ -1,0 +1,14 @@
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\İncrement and Decrement Operator\bin\Debug\İncrement and Decrement Operator.exe.config
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\İncrement and Decrement Operator\bin\Debug\İncrement and Decrement Operator.exe
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\İncrement and Decrement Operator\bin\Debug\İncrement and Decrement Operator.pdb
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\İncrement and Decrement Operator\obj\Debug\İncrement and Decrement Operator.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\İncrement and Decrement Operator\obj\Debug\İncrement and Decrement Operator.exe
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\İncrement and Decrement Operator\obj\Debug\İncrement and Decrement Operator.pdb
+C:\Programmin works\C# works\introductory lesson\İncrement and Decrement Operator\bin\Debug\İncrement and Decrement Operator.exe.config
+C:\Programmin works\C# works\introductory lesson\İncrement and Decrement Operator\bin\Debug\İncrement and Decrement Operator.exe
+C:\Programmin works\C# works\introductory lesson\İncrement and Decrement Operator\bin\Debug\İncrement and Decrement Operator.pdb
+C:\Programmin works\C# works\introductory lesson\İncrement and Decrement Operator\obj\Debug\İncrement and Decrement Operator.csproj.AssemblyReference.cache
+C:\Programmin works\C# works\introductory lesson\İncrement and Decrement Operator\obj\Debug\İncrement and Decrement Operator.csproj.SuggestedBindingRedirects.cache
+C:\Programmin works\C# works\introductory lesson\İncrement and Decrement Operator\obj\Debug\İncrement and Decrement Operator.csproj.CoreCompileInputs.cache
+C:\Programmin works\C# works\introductory lesson\İncrement and Decrement Operator\obj\Debug\İncrement and Decrement Operator.exe
+C:\Programmin works\C# works\introductory lesson\İncrement and Decrement Operator\obj\Debug\İncrement and Decrement Operator.pdb

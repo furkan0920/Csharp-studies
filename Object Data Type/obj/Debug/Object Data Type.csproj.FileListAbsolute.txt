@@ -1,0 +1,15 @@
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Object Data Type\bin\Debug\Object Data Type.exe.config
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Object Data Type\bin\Debug\Object Data Type.exe
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Object Data Type\bin\Debug\Object Data Type.pdb
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Object Data Type\obj\Debug\Object Data Type.csproj.AssemblyReference.cache
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Object Data Type\obj\Debug\Object Data Type.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Object Data Type\obj\Debug\Object Data Type.exe
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Object Data Type\obj\Debug\Object Data Type.pdb
+C:\Programmin works\C# works\introductory lesson\Object Data Type\bin\Debug\Object Data Type.exe.config
+C:\Programmin works\C# works\introductory lesson\Object Data Type\bin\Debug\Object Data Type.exe
+C:\Programmin works\C# works\introductory lesson\Object Data Type\bin\Debug\Object Data Type.pdb
+C:\Programmin works\C# works\introductory lesson\Object Data Type\obj\Debug\Object Data Type.csproj.AssemblyReference.cache
+C:\Programmin works\C# works\introductory lesson\Object Data Type\obj\Debug\Object Data Type.csproj.SuggestedBindingRedirects.cache
+C:\Programmin works\C# works\introductory lesson\Object Data Type\obj\Debug\Object Data Type.csproj.CoreCompileInputs.cache
+C:\Programmin works\C# works\introductory lesson\Object Data Type\obj\Debug\Object Data Type.exe
+C:\Programmin works\C# works\introductory lesson\Object Data Type\obj\Debug\Object Data Type.pdb

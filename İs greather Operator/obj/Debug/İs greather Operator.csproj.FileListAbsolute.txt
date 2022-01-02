@@ -1,0 +1,15 @@
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\İs greather Operator\bin\Debug\İs greather Operator.exe.config
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\İs greather Operator\bin\Debug\İs greather Operator.exe
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\İs greather Operator\bin\Debug\İs greather Operator.pdb
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\İs greather Operator\obj\Debug\İs greather Operator.csproj.AssemblyReference.cache
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\İs greather Operator\obj\Debug\İs greather Operator.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\İs greather Operator\obj\Debug\İs greather Operator.exe
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\İs greather Operator\obj\Debug\İs greather Operator.pdb
+C:\Programmin works\C# works\introductory lesson\İs greather Operator\bin\Debug\İs greather Operator.exe.config
+C:\Programmin works\C# works\introductory lesson\İs greather Operator\bin\Debug\İs greather Operator.exe
+C:\Programmin works\C# works\introductory lesson\İs greather Operator\bin\Debug\İs greather Operator.pdb
+C:\Programmin works\C# works\introductory lesson\İs greather Operator\obj\Debug\İs greather Operator.csproj.AssemblyReference.cache
+C:\Programmin works\C# works\introductory lesson\İs greather Operator\obj\Debug\İs greather Operator.csproj.SuggestedBindingRedirects.cache
+C:\Programmin works\C# works\introductory lesson\İs greather Operator\obj\Debug\İs greather Operator.csproj.CoreCompileInputs.cache
+C:\Programmin works\C# works\introductory lesson\İs greather Operator\obj\Debug\İs greather Operator.exe
+C:\Programmin works\C# works\introductory lesson\İs greather Operator\obj\Debug\İs greather Operator.pdb

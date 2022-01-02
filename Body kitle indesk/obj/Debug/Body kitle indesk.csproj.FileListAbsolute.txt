@@ -1,0 +1,8 @@
+C:\Programmin works\C# works\introductory lesson\Body kitle indesk\bin\Debug\Body kitle indesk.exe.config
+C:\Programmin works\C# works\introductory lesson\Body kitle indesk\bin\Debug\Body kitle indesk.exe
+C:\Programmin works\C# works\introductory lesson\Body kitle indesk\bin\Debug\Body kitle indesk.pdb
+C:\Programmin works\C# works\introductory lesson\Body kitle indesk\obj\Debug\Body kitle indesk.csproj.AssemblyReference.cache
+C:\Programmin works\C# works\introductory lesson\Body kitle indesk\obj\Debug\Body kitle indesk.csproj.SuggestedBindingRedirects.cache
+C:\Programmin works\C# works\introductory lesson\Body kitle indesk\obj\Debug\Body kitle indesk.csproj.CoreCompileInputs.cache
+C:\Programmin works\C# works\introductory lesson\Body kitle indesk\obj\Debug\Body kitle indesk.exe
+C:\Programmin works\C# works\introductory lesson\Body kitle indesk\obj\Debug\Body kitle indesk.pdb

@@ -1,0 +1,13 @@
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Multiplication and Division Operators\bin\Debug\Multiplication and Division Operators.exe.config
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Multiplication and Division Operators\bin\Debug\Multiplication and Division Operators.exe
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Multiplication and Division Operators\bin\Debug\Multiplication and Division Operators.pdb
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Multiplication and Division Operators\obj\Debug\Multiplication and Division Operators.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Multiplication and Division Operators\obj\Debug\Multiplication and Division Operators.exe
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Multiplication and Division Operators\obj\Debug\Multiplication and Division Operators.pdb
+C:\Programmin works\C# works\introductory lesson\Multiplication and Division Operators\bin\Debug\Multiplication and Division Operators.exe.config
+C:\Programmin works\C# works\introductory lesson\Multiplication and Division Operators\bin\Debug\Multiplication and Division Operators.exe
+C:\Programmin works\C# works\introductory lesson\Multiplication and Division Operators\bin\Debug\Multiplication and Division Operators.pdb
+C:\Programmin works\C# works\introductory lesson\Multiplication and Division Operators\obj\Debug\Multiplication and Division Operators.csproj.SuggestedBindingRedirects.cache
+C:\Programmin works\C# works\introductory lesson\Multiplication and Division Operators\obj\Debug\Multiplication and Division Operators.csproj.CoreCompileInputs.cache
+C:\Programmin works\C# works\introductory lesson\Multiplication and Division Operators\obj\Debug\Multiplication and Division Operators.exe
+C:\Programmin works\C# works\introductory lesson\Multiplication and Division Operators\obj\Debug\Multiplication and Division Operators.pdb

@@ -1,0 +1,15 @@
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Breakpoint and Tooltip importance\obj\Debug\Breakpoint and Tooltip importance.csproj.AssemblyReference.cache
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Breakpoint and Tooltip importance\obj\Debug\Breakpoint and Tooltip importance.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Breakpoint and Tooltip importance\bin\Debug\Breakpoint and Tooltip importance.exe.config
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Breakpoint and Tooltip importance\bin\Debug\Breakpoint and Tooltip importance.exe
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Breakpoint and Tooltip importance\bin\Debug\Breakpoint and Tooltip importance.pdb
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Breakpoint and Tooltip importance\obj\Debug\Breakpoint and Tooltip importance.exe
+C:\Users\Furkan Ayakdaş\Desktop\C# works\introductory lesson\Breakpoint and Tooltip importance\obj\Debug\Breakpoint and Tooltip importance.pdb
+C:\Programmin works\C# works\introductory lesson\Breakpoint and Tooltip importance\bin\Debug\Breakpoint and Tooltip importance.exe.config
+C:\Programmin works\C# works\introductory lesson\Breakpoint and Tooltip importance\bin\Debug\Breakpoint and Tooltip importance.exe
+C:\Programmin works\C# works\introductory lesson\Breakpoint and Tooltip importance\bin\Debug\Breakpoint and Tooltip importance.pdb
+C:\Programmin works\C# works\introductory lesson\Breakpoint and Tooltip importance\obj\Debug\Breakpoint and Tooltip importance.csproj.AssemblyReference.cache
+C:\Programmin works\C# works\introductory lesson\Breakpoint and Tooltip importance\obj\Debug\Breakpoint and Tooltip importance.csproj.SuggestedBindingRedirects.cache
+C:\Programmin works\C# works\introductory lesson\Breakpoint and Tooltip importance\obj\Debug\Breakpoint and Tooltip importance.csproj.CoreCompileInputs.cache
+C:\Programmin works\C# works\introductory lesson\Breakpoint and Tooltip importance\obj\Debug\Breakpoint and Tooltip importance.exe
+C:\Programmin works\C# works\introductory lesson\Breakpoint and Tooltip importance\obj\Debug\Breakpoint and Tooltip importance.pdb
